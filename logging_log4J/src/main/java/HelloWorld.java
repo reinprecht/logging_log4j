@@ -29,5 +29,9 @@ public class HelloWorld {
 		//hw.doABasicTest();
 		hw.doAnAdvancedTest();
 	}
+	
+	public void test(){
+		System.out.println("Test");
+	}
 
 }
